@@ -9,7 +9,7 @@ Passionate about technology & a problem solver!
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [mosmartin5@gmail.com](mailto:mosmartin5@gmail.com)
 * 🚀  I'm currently working on [Lisk](http://lisk.com/)
-* 🚀  Previously contributed to the following projects
+* 🚀  Recently contributed to the following projects
   - [Goal 3](https://goal3.org/)
   - [quantilope](https://www.quantilope.com/de/)
   - [moio care](https://moio.care/)
