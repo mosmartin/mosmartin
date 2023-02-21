@@ -14,7 +14,7 @@ Passionate about technology & a problem solver!
   - [quantilope](https://www.quantilope.com/de/)
   - [Frantos](https://www.frantos.com/de/)
   - [moio care](https://moio.care/)
-* 🧠  I'm learning smart contract hacking so I can research and engineer safe and secure smart contracts
+* 🧠  I'm learning smart contract hacking so I can better research and engineer safe and secure smart contracts
 * 🤝  I'm open to collaborating on anything interesting
 * ⚡  Interested in the Web3 & Blockchain Space
 
