@@ -6,7 +6,7 @@ Blockchain Backend Engineer
 
 Passionate about technology & a problem solver!
 
-* 🌍  I'm based in here and there!
+* 🌍  I'm based here and there!
 * ✉️  You can contact me at [mosmartin5@gmail.com](mailto:mosmartin5@gmail.com)
 * 🚀  I'm currently working on [Lisk Web3 & Blockchain Platform](http://lisk.com/)
 * 🚀  Recently contributed to the following projects
