@@ -8,13 +8,14 @@ Passionate about technology & a problem solver!
 
 * 🌍  I'm based here👇 and there 👉!
 * ✉️  You can contact me at [mosmartin5@gmail.com](mailto:mosmartin5@gmail.com)
-* 🚀  I'm currently working on [Lisk Web3 & Blockchain Platform](http://lisk.com/)
+* 🚀  I'm currently working on a [Lisk Web3 & Blockchain Platform](http://lisk.com/)
 * 🚀  Recently contributed to the following projects
+  - [Lisk Web3 & Blockchain Platform](http://lisk.com/)
   - [Goal 3](https://goal3.org/)
   - [quantilope](https://www.quantilope.com/de/)
   - [Frantos](https://www.frantos.com/de/)
   - [moio care](https://moio.care/)
-* 🧠  I'm learning Rust 🦀
+* 🧠  I'm learning German
 * 🤝  I'm open to collaborating on anything interesting
 * ⚡  Interested in the Web3 & Blockchain Space
 
