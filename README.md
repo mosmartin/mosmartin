@@ -1,12 +1,8 @@
-Hi 👋 My name is Martin Macharia
-================================
+Martin Macharia - Senior FullStack Engineer
+-
+I am passionate about technology & a problem solver!
 
-Blockchain Backend Engineer
----------------------------
-
-Passionate about technology & a problem solver!
-
-* 🌍  I'm based here👇 and there 👉!
+* 🌍  I'm based here 👉 🌍
 * ✉️  You can contact me at [mosmartin5@gmail.com](mailto:mosmartin5@gmail.com).
 * 🚀  I'm currently working on the [Schüttflix Platform](https://www.schuettflix.com/global/en/) where we are digitizing the construction industry logistics.
 * 🚀  Recently contributed to the following projects:
