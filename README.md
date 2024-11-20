@@ -4,8 +4,9 @@ I am passionate about technology & a problem solver!
 
 * 🌍  I'm based here 👉 🌍
 * ✉️  You can contact me at [mosmartin5@gmail.com](mailto:mosmartin5@gmail.com).
-* 🚀  I'm currently working on the [Schüttflix Platform](https://www.schuettflix.com/global/en/) where we are digitizing the construction industry logistics.
+* 🚀  I'm currently working on a side project VumiCentral as well as a VOD platform.
 * 🚀  Recently contributed to the following projects:
+  - [Schüttflix Platform](https://www.schuettflix.com/global/en/)
   - [Lisk Web3 & Blockchain Platform](http://lisk.com/)
   - [Goal 3](https://goal3.org/)
   - [quantilope](https://www.quantilope.com/de/)
