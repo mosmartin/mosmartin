@@ -1,4 +1,4 @@
-Martin Macharia - Senior FullStack Engineer
+Martin Macharia - Staff Software Engineer
 -
 I am passionate about technology & a problem solver!
 
