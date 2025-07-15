@@ -1,4 +1,4 @@
-Martin Macharia - Staff Software Engineer
+Martin Macharia - Developing solutions through software
 -
 I am passionate about technology & a problem solver!
 
