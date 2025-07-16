@@ -8,7 +8,7 @@ I am passionate about technology & a problem solver!
 * ✅  Recently contributed to the following projects:
   - [VumiCentral](https://vumicentral.com/)
   - [Schüttflix Platform](https://www.schuettflix.com/global/en/)
-  - [Lisk Web3 & Blockchain Platform](http://lisk.com/)
+  - [Lisk Web3 & Blockchain Network | Protocol](http://lisk.com/)
   - [Goal 3](https://goal3.org/)
   - [quantilope](https://www.quantilope.com/de/)
   - [Frantos](https://www.frantos.com/de/)
