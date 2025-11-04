@@ -4,8 +4,9 @@ I am passionate about technology & a problem solver!
 
 * 🌍  I'm based here 👉 🌍
 * ✉️  You can contact me at [mosmartin5@gmail.com](mailto:mosmartin5@gmail.com).
-* 🚀  I'm currently working on an all-in-one platform that helps companies manage ESG compliance and track their sustainability performance at [Atlas Metrics](https://www.atlasmetrics.io).
+* 🚀  I'm currently working on helping companies turn their sustainability data into long-term value at [Novata](https://www.novata.com/).
 * ✅  Recently contributed to the following projects:
+  - [Atlas Metrics](https://www.atlasmetrics.io)
   - [Vumi](https://vumicentral.com/)
   - [Schüttflix Platform](https://www.schuettflix.com/global/en/)
   - [Lisk Web3 & Blockchain Network | Protocol](http://lisk.com/)
