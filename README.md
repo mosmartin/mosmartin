@@ -4,9 +4,9 @@ I am passionate about technology & a problem solver!
 
 * 🌍  I'm based here 👉 🌍
 * ✉️  You can contact me at [mosmartin5@gmail.com](mailto:mosmartin5@gmail.com).
-* 🚀  I'm currently working on helping companies turn their sustainability data into long-term value at [Novata](https://www.novata.com/).
+* 🚀  I'm currently working on building an AI-Native regulatory compliance platform for MedTech and Pharma at [Rematiq](https://rematiq.com/).
 * ✅  Recently contributed to the following projects:
-  - [Atlas Metrics](https://www.atlasmetrics.io)
+  - [Atlas Metrics](https://www.atlasmetrics.io) aquired by [Novata](https://www.novata.com/)
   - [Vumi](https://vumicentral.com/)
   - [Schüttflix Platform](https://www.schuettflix.com/global/en/)
   - [Lisk Web3 & Blockchain Network | Protocol](http://lisk.com/)
